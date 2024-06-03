@@ -1,0 +1,11 @@
+.form-group {
+    margin-bottom: 1rem;
+}
+
+input {
+    margin-left: 1rem;
+    height: 28px;
+    padding-left: 0.35rem;
+    border-radius: .3rem;
+    border: 1px solid gray;
+}
